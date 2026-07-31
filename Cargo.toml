@@ -1,0 +1,15 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "crates/*"
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+license = "TBD"
+authors = [
+    "Sunspot Contributors"
+]
+repository = "https://codeberg.org/sunspot/sunspot"
